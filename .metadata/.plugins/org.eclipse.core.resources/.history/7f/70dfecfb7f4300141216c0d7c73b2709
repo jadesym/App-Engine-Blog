@@ -1,0 +1,17 @@
+html {
+	font-size: 20px;
+}
+
+body {
+	text-align: center;
+	background-color: #161a25 !important;
+	
+}
+
+.centerItem {
+	text-align: center;
+}
+
+.container-fluid {
+	background-color: #000000;
+}

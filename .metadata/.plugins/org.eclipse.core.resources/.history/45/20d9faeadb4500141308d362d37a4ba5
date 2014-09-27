@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+<cron>
+<url>/cronjob</url>
+<description>Daily Digest of ShenFu Weather Blog</description>
+<schedule>every day 19:18</schedule>
+<timezone>America/Chicago</timezone>
+</cron>
+</cronentries>
